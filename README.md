@@ -22,8 +22,6 @@
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1DdMaAUb2wEop4p_2vRu9jKDgJLCN7HID)
 
-*Modern, responsive UI with dark mode and glassmorphism design*
-
 </div>
 
 <details>
@@ -31,9 +29,9 @@
 
 | Main Interface | Query Interface |
 |:---:|:---:|
-| ![Main View](https://drive.google.com/uc?export=view&id=1DdMaAUb2wEop4p_2vRu9jKDgJLCN7HID) | ![Query View](https://drive.google.com/uc?export=view&id=15f9unAbEudlzufgMr8LWfRfDFJzEH7Zp) |
+| ![Query View](https://drive.google.com/uc?export=view&id=1DdMaAUb2wEop4p_2vRu9jKDgJLCN7HID) | ![Main View](https://drive.google.com/uc?export=view&id=15f9unAbEudlzufgMr8LWfRfDFJzEH7Zp) |
 
-*Aura RAG - Beautiful dark theme with purple accents*
+*Aura RAG*
 
 </details>
 
@@ -81,8 +79,7 @@ A **production-ready**, full-stack RAG (Retrieval-Augmented Generation) applicat
 
 ## 🏗️ System Architecture
 
-```mermaid
-graph TB
+Graph TB
     subgraph "Client Layer"
         A[React Frontend<br/>Vite + Framer Motion]
     end
